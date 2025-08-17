@@ -1,8 +1,9 @@
 # Tree Tracks
 
 This repository contains the application that works with user submitted video recordings and GPS tracks to identify trees.
-
 This is a helper tool for the Tree Maps application.
+
+This tool will be moved into the main Tree Mapps repository, when that one is made a monorepo.
 
 
 ## User Experience
